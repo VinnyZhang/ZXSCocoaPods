@@ -1,0 +1,6 @@
+framework module ZXSCocoaPods {
+  umbrella header "ZXSCocoaPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
